@@ -2,6 +2,8 @@
 
 Код калькулятора взят с https://www.geeksforgeeks.org/how-to-make-a-scientific-calculator-android-app-using-android-studio/
 
+Тесты на `espresso`
+
 ## Тест-Кейсы:
 
 
