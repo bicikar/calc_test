@@ -1,6 +1,8 @@
 Тесты лежат в `java/com/kirillkuznetsov/scientificcalculator/MainActivityTest.kt`
 
-##Тест-Кейсы:
+Код калькулятора взят с https://www.geeksforgeeks.org/how-to-make-a-scientific-calculator-android-app-using-android-studio/
+
+## Тест-Кейсы:
 
 
 ### Тест кейс 1
